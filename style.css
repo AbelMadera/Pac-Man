@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=VT323&display=swap');
+body {
+    margin: 0; 
+    background-color: black;
+    padding: 10px 20px; 
+}
+
+p {
+    color: white; 
+    font-family: 'VT323', monospace;
+    font-size: 25px;
+    border: 5px solid white; 
+    width: 100px;
+    height: 25px;
+}
+
+#scoreEl {
+    font-size: 25px;
+}
